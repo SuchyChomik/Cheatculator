@@ -20,6 +20,6 @@ it to cycle through the images.
 | Initial test  | ✅  |
 | Component placement | ✅ |
 | Software  | ❌ |
-| Second revisiton of the PCB  | ❌  |
+| Second revisiton of the PCB  | ✅  |
 
 *➖ - partially finished*
