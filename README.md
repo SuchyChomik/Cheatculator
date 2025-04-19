@@ -14,10 +14,10 @@ it to cycle through the images.
 ## DIY Tutorial 
 *Work in progress*
 # Development
-| Feature  | Finished? |
-| ------------- | ------------- |
-| First revision of the PCB  | ✅  |
-| Software  | ❌ |
-| Second revision of the PCB  | ✅  |
+| Feature  | Finished? | Working? |
+| ------------- | ------------- | ------------- |
+| First revision of the PCB  | ✅  | ❌ |
+| Software  | ❌ | ❌ |
+| Second revision of the PCB  | ✅  | ➖|
 
-*➖ - partially finished*
+*➖ - partially*
