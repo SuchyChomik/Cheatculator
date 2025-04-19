@@ -17,9 +17,7 @@ it to cycle through the images.
 | Feature  | Finished? |
 | ------------- | ------------- |
 | First revision of the PCB  | ✅  |
-| Initial test  | ✅  |
-| Component placement | ✅ |
 | Software  | ❌ |
-| Second revisiton of the PCB  | ✅  |
+| Second revision of the PCB  | ✅  |
 
 *➖ - partially finished*
