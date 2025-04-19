@@ -5,7 +5,7 @@
 > things. **Use at your own risk!**
 # Cheatculator
 A modification for a calculator allowing you to cheat on exams. It features an OLED display, on which you can
-display any black and white image (eg. chemistry or math formulas) with a press of a button.
+display any 128x64 black and white image (eg. chemistry or math formulas) with a press of a button.
 ## How it works / How to use
 It works by connecting to a mobile hotspot that you set up before your exam.  
 You visit a website on a phone or computer and upload all the images you want to display 
